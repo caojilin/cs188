@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b86a204-f3bd-4e9d-9390-7a9efc604aeb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../multiagent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multiagent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notes_ai.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reinforcement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reinforcement/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reinforcement/analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../reinforcement/analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reinforcement/crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/../reinforcement/crawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reinforcement/graphicsCrawlerDisplay.py" beforeDir="false" afterPath="$PROJECT_DIR$/../reinforcement/graphicsCrawlerDisplay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reinforcement/qlearningAgents.py" beforeDir="false" afterPath="$PROJECT_DIR$/../reinforcement/qlearningAgents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reinforcement/reinforcementTestClasses.py" beforeDir="false" afterPath="$PROJECT_DIR$/../reinforcement/reinforcementTestClasses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reinforcement/valueIterationAgents.py" beforeDir="false" afterPath="$PROJECT_DIR$/../reinforcement/valueIterationAgents.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="449374923">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="10" />
+          <entry key="solution" value="2" />
+          <entry key="test" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="4087" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="4087" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/busters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="e#987#1017#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/inference.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="372" column="76" selection-start-line="372" selection-start-column="76" selection-end-line="372" selection-end-column="76" />
+              <folding>
+                <element signature="e#656#672#0" expanded="true" />
+                <marker date="1541289061238" expanded="true" signature="13627:13636" ph="..." />
+                <marker date="1541289061238" expanded="true" signature="14736:14745" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5940">
+              <caret line="333" selection-start-line="333" selection-end-line="333" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_cases/q6/3-ParticleUpdate.test">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_cases/q6/3-ParticleUpdate.solution">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_cases/q6/4-ParticleUpdate.test">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_cases/q6/4-ParticleUpdate.solution">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grading.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1260">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8874">
+              <caret line="496" column="23" selection-start-line="496" selection-start-column="11" selection-end-line="496" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testClasses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1386">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>normalize</find>
+      <find>getObservationProbability</find>
+      <find>getobservationpro</find>
+      <find>getob</find>
+      <find>succe</find>
+      <find>legal</find>
+      <find>Counter</find>
+      <find>elap</find>
+      <find>elapse</find>
+      <find>legalposition</find>
+      <find>sample</find>
+      <find>getObservationProb</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pacman.py" />
+        <option value="$PROJECT_DIR$/bustersAgents.py" />
+        <option value="$PROJECT_DIR$/inference.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ghostbusters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ghostbusters" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/caojilin/github/cs188/ghostbusters/inference.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b86a204-f3bd-4e9d-9390-7a9efc604aeb" name="Default Changelist" comment="" />
+      <created>1541018748764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541018748764</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19802678" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3134752" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_cases/q3/1-ExactPredict.test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/q3/2-ExactPredict.test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/q3/3-ExactPredict.test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pacman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="83" column="25" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/q3/4-ExactPredict.test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bustersAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="148" column="28" selection-start-line="148" selection-start-column="28" selection-end-line="148" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/busters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#987#1017#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5940">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/q6/3-ParticleUpdate.test">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/q6/3-ParticleUpdate.solution">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/q6/4-ParticleUpdate.test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/q6/4-ParticleUpdate.solution">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8874">
+          <caret line="496" column="23" selection-start-line="496" selection-start-column="11" selection-end-line="496" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testClasses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="372" column="76" selection-start-line="372" selection-start-column="76" selection-end-line="372" selection-end-column="76" />
+          <folding>
+            <element signature="e#656#672#0" expanded="true" />
+            <marker date="1541289061238" expanded="true" signature="13627:13636" ph="..." />
+            <marker date="1541289061238" expanded="true" signature="14736:14745" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
