@@ -1,1 +1,1 @@
-# cs188
+# Berkely cs188 Fall 2018 all resources. 
